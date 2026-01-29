@@ -24,13 +24,13 @@ repository               : "arjunchh/arjunchh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Arjun Chhabra"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Candidate in Mechanical and Aerospace Engineering"
+  location         : #"Earth"
+  employer         : "Princeton University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arjun.chhabra@princeton.edu" 
 
   # Academic websites
   academia         : # URL
