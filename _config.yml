@@ -23,7 +23,7 @@ repository               : "arjunchh/arjunchh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Arjun Chhabra"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Mechanical and Aerospace Engineering"
